@@ -22,17 +22,10 @@ e seja feliz meu amigo
 ```
 ---
 
-## COMO JOGAR
+## COMO JOGAR (versao em python)
 ```python
 esta setado nas configs do programa a seguinte orientaçao de gameplay
 qualquer tecla pausa o jogo
 marcar quadradinho com o botao do mouse
 pra fechar o jogo tem que desligar o pc, mentira pode dar um ctrl + C no console q ta rodando o arquivo
 ```
-
-<br>
-
-## To do
-refazer essa bomba em Vue ate sexta meia noite
-
-<br>
