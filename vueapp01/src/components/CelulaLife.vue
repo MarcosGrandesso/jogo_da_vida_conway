@@ -7,7 +7,8 @@ export default{
   props:{
       row: "",
       col: "",
-      state: 0
+      state: 0,
+      teste:""
       
   },
   methods:{
